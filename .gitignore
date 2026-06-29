@@ -10,3 +10,6 @@ __pycache__/
 # Temp files
 *.log
 temp_*
+
+# Office temp files
+~$*
