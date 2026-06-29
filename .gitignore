@@ -1,0 +1,12 @@
+﻿# PlatformIO
+.pio/
+build/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Temp files
+*.log
+temp_*
